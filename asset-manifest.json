@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/staff_copy/static/css/main.b8f1acd3.css",
-    "main.js": "/staff_copy/static/js/main.a421a7bf.js",
-    "static/media/main_page_female_1.jpeg": "/staff_copy/static/media/main_page_female_1.c845b59e447bcb34efb7.jpeg",
-    "static/media/main_page_male_2.jpeg": "/staff_copy/static/media/main_page_male_2.0f79a1b76afbad9cfb28.jpeg",
-    "static/media/main_page_male_1.jpeg": "/staff_copy/static/media/main_page_male_1.34806c2a999c6fb182bf.jpeg",
-    "static/media/MaleMainPage_pants.jpeg": "/staff_copy/static/media/MaleMainPage_pants.807da6f53ad0a7e030d9.jpeg",
-    "static/media/FemaleMainPage_t-shirts.jpeg": "/staff_copy/static/media/FemaleMainPage_t-shirts.7b120e6844160b66ff67.jpeg",
-    "static/media/MaleMainPage_sneakers.jpeg": "/staff_copy/static/media/MaleMainPage_sneakers.33d23eea38e0f4d1bb9e.jpeg",
-    "static/media/FemaleMainPage_shorts.jpeg": "/staff_copy/static/media/FemaleMainPage_shorts.84d2a541eddaeb377e1a.jpeg",
-    "static/media/MaleMainPage_t-shirts.jpeg": "/staff_copy/static/media/MaleMainPage_t-shirts.126cd65c64c413d4700c.jpeg",
-    "static/media/FemaleMainPage_dresses.jpeg": "/staff_copy/static/media/FemaleMainPage_dresses.9eb66aa9ce5eedf6b9db.jpeg",
-    "static/media/FemaleMainPage_pants.jpeg": "/staff_copy/static/media/FemaleMainPage_pants.d1547ad2e279a8313008.jpeg",
-    "static/media/MaleMainPage_sweat-shirts.jpeg": "/staff_copy/static/media/MaleMainPage_sweat-shirts.f8f0156715d12a0f5025.jpeg",
-    "static/media/staff_logo.png": "/staff_copy/static/media/staff_logo.dad42daf916d292364eb.png",
-    "static/media/google-play.svg": "/staff_copy/static/media/google-play.625c680a15560964c9cd52f9c495af6b.svg",
-    "static/media/comeback_alive.svg": "/staff_copy/static/media/comeback_alive.4765b3f62639212eadd93b9d9619499d.svg",
-    "static/media/app-storesvg.svg": "/staff_copy/static/media/app-storesvg.b264a583141c9912cd35db5d14a9455d.svg",
-    "static/media/cross_svg_icon.svg": "/staff_copy/static/media/cross_svg_icon.6a1d38e291ce3f5f366f0d33eaf3465e.svg",
-    "index.html": "/staff_copy/index.html",
-    "static/media/search_icon.svg": "/staff_copy/static/media/search_icon.185c2e4fe8dcf508d83bfccdb40a290b.svg",
-    "main.b8f1acd3.css.map": "/staff_copy/static/css/main.b8f1acd3.css.map",
-    "main.a421a7bf.js.map": "/staff_copy/static/js/main.a421a7bf.js.map"
+    "main.css": "/staff-test-project/static/css/main.b8f1acd3.css",
+    "main.js": "/staff-test-project/static/js/main.052f50c8.js",
+    "static/media/main_page_female_1.jpeg": "/staff-test-project/static/media/main_page_female_1.c845b59e447bcb34efb7.jpeg",
+    "static/media/main_page_male_2.jpeg": "/staff-test-project/static/media/main_page_male_2.0f79a1b76afbad9cfb28.jpeg",
+    "static/media/main_page_male_1.jpeg": "/staff-test-project/static/media/main_page_male_1.34806c2a999c6fb182bf.jpeg",
+    "static/media/MaleMainPage_pants.jpeg": "/staff-test-project/static/media/MaleMainPage_pants.807da6f53ad0a7e030d9.jpeg",
+    "static/media/FemaleMainPage_t-shirts.jpeg": "/staff-test-project/static/media/FemaleMainPage_t-shirts.7b120e6844160b66ff67.jpeg",
+    "static/media/MaleMainPage_sneakers.jpeg": "/staff-test-project/static/media/MaleMainPage_sneakers.33d23eea38e0f4d1bb9e.jpeg",
+    "static/media/FemaleMainPage_shorts.jpeg": "/staff-test-project/static/media/FemaleMainPage_shorts.84d2a541eddaeb377e1a.jpeg",
+    "static/media/MaleMainPage_t-shirts.jpeg": "/staff-test-project/static/media/MaleMainPage_t-shirts.126cd65c64c413d4700c.jpeg",
+    "static/media/FemaleMainPage_dresses.jpeg": "/staff-test-project/static/media/FemaleMainPage_dresses.9eb66aa9ce5eedf6b9db.jpeg",
+    "static/media/FemaleMainPage_pants.jpeg": "/staff-test-project/static/media/FemaleMainPage_pants.d1547ad2e279a8313008.jpeg",
+    "static/media/MaleMainPage_sweat-shirts.jpeg": "/staff-test-project/static/media/MaleMainPage_sweat-shirts.f8f0156715d12a0f5025.jpeg",
+    "static/media/staff_logo.png": "/staff-test-project/static/media/staff_logo.dad42daf916d292364eb.png",
+    "static/media/google-play.svg": "/staff-test-project/static/media/google-play.625c680a15560964c9cd52f9c495af6b.svg",
+    "static/media/comeback_alive.svg": "/staff-test-project/static/media/comeback_alive.4765b3f62639212eadd93b9d9619499d.svg",
+    "static/media/app-storesvg.svg": "/staff-test-project/static/media/app-storesvg.b264a583141c9912cd35db5d14a9455d.svg",
+    "static/media/cross_svg_icon.svg": "/staff-test-project/static/media/cross_svg_icon.6a1d38e291ce3f5f366f0d33eaf3465e.svg",
+    "index.html": "/staff-test-project/index.html",
+    "static/media/search_icon.svg": "/staff-test-project/static/media/search_icon.185c2e4fe8dcf508d83bfccdb40a290b.svg",
+    "main.b8f1acd3.css.map": "/staff-test-project/static/css/main.b8f1acd3.css.map",
+    "main.052f50c8.js.map": "/staff-test-project/static/js/main.052f50c8.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f1acd3.css",
-    "static/js/main.a421a7bf.js"
+    "static/js/main.052f50c8.js"
   ]
 }
